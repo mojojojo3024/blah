@@ -4,4 +4,4 @@
         . # # # . 
         . . # . . 
         . . . . .
-        `</field></block></statement></block><block type="device_forever" id="5Qz%TKnFzW(ahnp[s@NE" x="205" y="0"/></xml>
+        `</field></block></statement></block><block type="device_forever" id="5Qz%TKnFzW(ahnp[s@NE" x="205" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="QLTi1S.Ay;lj2Y8*23?v"><field name="i">IconNames.Heart</field><next><block type="device_unplot" id="VpM:|~h?J*?r=A@[LxN)"><value name="x"><shadow type="math_number_minmax" id="yRA!P`g|s$kiT|6{|p*?"><mutation min="0" max="4" label="X" precision="1"/><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="Q[c,|9E9_D#xPYpYW)C9"><mutation min="0" max="4" label="Y" precision="1"/><field name="SLIDER">0</field></shadow></value></block></next></block></statement></block></xml>
